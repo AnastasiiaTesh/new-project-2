@@ -1,4 +1,4 @@
-
+print('Привет, мир!')
 def operFunc():
 	oper = str(input('Выберите операцию: '))
 	count = 0	
