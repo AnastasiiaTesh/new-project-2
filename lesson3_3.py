@@ -36,3 +36,4 @@ def operFunc():
 
 
 operFunc()
+print('Nastena, all is ok')
